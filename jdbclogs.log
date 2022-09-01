@@ -1,0 +1,441 @@
+18:27:21.348 [main] ERROR fileLogger - Logging an error
+18:48:19.563 [main] ERROR fileLogger - Logging an error
+19:03:59.775 [main] ERROR fileLogger - Logging an error
+19:04:20.793 [main] ERROR fileLogger - Logging an error
+19:05:11.287 [main] ERROR fileLogger - Logging an error
+19:09:57.022 [main] ERROR fileLogger - Logging an error
+19:37:42.573 [main] DEBUG fileLogger - Create a user.
+19:37:43.477 [main] ERROR fileLogger - org.postgresql.util.PSQLException: ERROR: duplicate key value violates unique constraint "users_username_key"
+  Detail: Key (username)=(user1) already exists.
+19:50:51.101 [main] DEBUG fileLogger - Create a user.
+19:50:51.949 [main] ERROR fileLogger - org.postgresql.util.PSQLException: ERROR: duplicate key value violates unique constraint "users_username_key"
+  Detail: Key (username)=(user1) already exists.
+19:54:16.188 [main] DEBUG fileLogger - Create a user.
+19:54:17.476 [main] ERROR fileLogger - Logging an error
+19:59:02.905 [main] DEBUG fileLogger - Create a user.
+19:59:03.748 [main] ERROR fileLogger - org.postgresql.util.PSQLException: ERROR: duplicate key value violates unique constraint "users_username_key"
+  Detail: Key (username)=(user1) already exists.
+20:01:06.215 [main] DEBUG fileLogger - Create a user.
+20:01:07.004 [main] ERROR fileLogger - org.postgresql.util.PSQLException: ERROR: duplicate key value violates unique constraint "users_username_key"
+  Detail: Key (username)=(user1) already exists.
+20:01:33.731 [main] DEBUG fileLogger - Create a user.
+20:01:34.504 [main] ERROR fileLogger - org.postgresql.util.PSQLException: ERROR: duplicate key value violates unique constraint "users_username_key"
+  Detail: Key (username)=(user1) already exists.
+20:02:15.722 [main] DEBUG fileLogger - Create a user.
+20:02:16.539 [main] ERROR fileLogger - Logging an error
+20:04:24.747 [main] DEBUG fileLogger - Create a user.
+20:04:25.575 [main] ERROR fileLogger - org.postgresql.util.PSQLException: ERROR: duplicate key value violates unique constraint "users_username_key"
+  Detail: Key (username)=() already exists.
+20:08:17.395 [main] DEBUG fileLogger - Create a user.
+20:08:18.322 [main] ERROR fileLogger - org.postgresql.util.PSQLException: ERROR: duplicate key value violates unique constraint "users_username_key"
+  Detail: Key (username)=() already exists.
+20:24:05.608 [main] DEBUG fileLogger - Create a user.
+20:24:06.953 [main] ERROR fileLogger - Logging an error
+20:25:13.998 [main] DEBUG fileLogger - Create a user.
+20:25:14.810 [main] ERROR fileLogger - org.postgresql.util.PSQLException: ERROR: duplicate key value violates unique constraint "users_username_key"
+  Detail: Key (username)=(user1) already exists.
+20:25:59.729 [main] DEBUG fileLogger - Create a user.
+20:26:00.530 [main] ERROR fileLogger - org.postgresql.util.PSQLException: ERROR: duplicate key value violates unique constraint "users_username_key"
+  Detail: Key (username)=(user1) already exists.
+21:02:25.144 [main] DEBUG fileLogger - Create a user.
+21:02:26.024 [main] ERROR fileLogger - org.postgresql.util.PSQLException: ERROR: duplicate key value violates unique constraint "users_username_key"
+  Detail: Key (username)=(user1) already exists.
+21:02:26.025 [main] DEBUG fileLogger - Create a user.
+21:02:26.428 [main] ERROR fileLogger - org.postgresql.util.PSQLException: ERROR: duplicate key value violates unique constraint "users_username_key"
+  Detail: Key (username)=(user1) already exists.
+21:02:26.429 [main] DEBUG fileLogger - Create a user.
+21:02:26.762 [main] ERROR fileLogger - org.postgresql.util.PSQLException: ERROR: duplicate key value violates unique constraint "users_username_key"
+  Detail: Key (username)=(user1) already exists.
+21:02:26.762 [main] DEBUG fileLogger - Create a user.
+21:02:27.182 [main] ERROR fileLogger - org.postgresql.util.PSQLException: ERROR: duplicate key value violates unique constraint "users_username_key"
+  Detail: Key (username)=(user1) already exists.
+21:02:27.183 [main] DEBUG fileLogger - Create a user.
+21:02:27.496 [main] ERROR fileLogger - org.postgresql.util.PSQLException: ERROR: duplicate key value violates unique constraint "users_username_key"
+  Detail: Key (username)=(user1) already exists.
+21:02:27.497 [main] DEBUG fileLogger - Create a user.
+21:02:27.805 [main] ERROR fileLogger - org.postgresql.util.PSQLException: ERROR: duplicate key value violates unique constraint "users_username_key"
+  Detail: Key (username)=(user1) already exists.
+21:02:27.806 [main] DEBUG fileLogger - Create a user.
+21:02:28.095 [main] ERROR fileLogger - org.postgresql.util.PSQLException: ERROR: duplicate key value violates unique constraint "users_username_key"
+  Detail: Key (username)=(user1) already exists.
+21:02:28.095 [main] DEBUG fileLogger - Create a user.
+21:02:28.379 [main] ERROR fileLogger - org.postgresql.util.PSQLException: ERROR: duplicate key value violates unique constraint "users_username_key"
+  Detail: Key (username)=(user1) already exists.
+21:02:28.379 [main] DEBUG fileLogger - Create a user.
+21:02:28.682 [main] ERROR fileLogger - org.postgresql.util.PSQLException: ERROR: duplicate key value violates unique constraint "users_username_key"
+  Detail: Key (username)=(user1) already exists.
+21:02:28.683 [main] DEBUG fileLogger - Create a user.
+21:02:28.983 [main] ERROR fileLogger - org.postgresql.util.PSQLException: ERROR: duplicate key value violates unique constraint "users_username_key"
+  Detail: Key (username)=(user1) already exists.
+21:02:28.984 [main] DEBUG fileLogger - Create a user.
+21:02:29.295 [main] ERROR fileLogger - org.postgresql.util.PSQLException: ERROR: duplicate key value violates unique constraint "users_username_key"
+  Detail: Key (username)=(user1) already exists.
+21:02:29.295 [main] DEBUG fileLogger - Create a user.
+21:02:29.591 [main] ERROR fileLogger - org.postgresql.util.PSQLException: ERROR: duplicate key value violates unique constraint "users_username_key"
+  Detail: Key (username)=(user1) already exists.
+21:02:29.592 [main] DEBUG fileLogger - Create a user.
+21:02:29.877 [main] ERROR fileLogger - org.postgresql.util.PSQLException: ERROR: duplicate key value violates unique constraint "users_username_key"
+  Detail: Key (username)=(user1) already exists.
+21:02:29.878 [main] DEBUG fileLogger - Create a user.
+21:02:30.242 [main] ERROR fileLogger - org.postgresql.util.PSQLException: ERROR: duplicate key value violates unique constraint "users_username_key"
+  Detail: Key (username)=(user1) already exists.
+21:02:30.242 [main] DEBUG fileLogger - Create a user.
+21:02:30.529 [main] ERROR fileLogger - org.postgresql.util.PSQLException: ERROR: duplicate key value violates unique constraint "users_username_key"
+  Detail: Key (username)=(user1) already exists.
+21:02:30.529 [main] DEBUG fileLogger - Create a user.
+21:02:30.816 [main] ERROR fileLogger - org.postgresql.util.PSQLException: ERROR: duplicate key value violates unique constraint "users_username_key"
+  Detail: Key (username)=(user1) already exists.
+21:02:30.817 [main] DEBUG fileLogger - Create a user.
+21:02:31.118 [main] ERROR fileLogger - org.postgresql.util.PSQLException: ERROR: duplicate key value violates unique constraint "users_username_key"
+  Detail: Key (username)=(user1) already exists.
+21:02:31.119 [main] DEBUG fileLogger - Create a user.
+21:02:31.419 [main] ERROR fileLogger - org.postgresql.util.PSQLException: ERROR: duplicate key value violates unique constraint "users_username_key"
+  Detail: Key (username)=(user1) already exists.
+21:02:31.419 [main] DEBUG fileLogger - Create a user.
+21:02:31.734 [main] ERROR fileLogger - org.postgresql.util.PSQLException: ERROR: duplicate key value violates unique constraint "users_username_key"
+  Detail: Key (username)=(user1) already exists.
+21:02:31.734 [main] DEBUG fileLogger - Create a user.
+21:02:32.048 [main] ERROR fileLogger - org.postgresql.util.PSQLException: ERROR: duplicate key value violates unique constraint "users_username_key"
+  Detail: Key (username)=(user1) already exists.
+21:02:32.048 [main] DEBUG fileLogger - Create a user.
+21:02:32.332 [main] ERROR fileLogger - org.postgresql.util.PSQLException: ERROR: duplicate key value violates unique constraint "users_username_key"
+  Detail: Key (username)=(user1) already exists.
+21:02:32.332 [main] DEBUG fileLogger - Create a user.
+21:02:32.646 [main] ERROR fileLogger - org.postgresql.util.PSQLException: ERROR: duplicate key value violates unique constraint "users_username_key"
+  Detail: Key (username)=(user1) already exists.
+21:02:32.647 [main] DEBUG fileLogger - Create a user.
+21:02:32.914 [main] ERROR fileLogger - org.postgresql.util.PSQLException: ERROR: duplicate key value violates unique constraint "users_username_key"
+  Detail: Key (username)=(user1) already exists.
+21:02:32.915 [main] DEBUG fileLogger - Create a user.
+21:02:33.245 [main] ERROR fileLogger - org.postgresql.util.PSQLException: ERROR: duplicate key value violates unique constraint "users_username_key"
+  Detail: Key (username)=(user1) already exists.
+21:02:33.245 [main] DEBUG fileLogger - Create a user.
+21:02:33.538 [main] ERROR fileLogger - org.postgresql.util.PSQLException: ERROR: duplicate key value violates unique constraint "users_username_key"
+  Detail: Key (username)=(user1) already exists.
+21:02:33.538 [main] DEBUG fileLogger - Create a user.
+21:02:33.836 [main] ERROR fileLogger - org.postgresql.util.PSQLException: ERROR: duplicate key value violates unique constraint "users_username_key"
+  Detail: Key (username)=(user1) already exists.
+21:02:33.837 [main] DEBUG fileLogger - Create a user.
+21:02:34.113 [main] ERROR fileLogger - org.postgresql.util.PSQLException: ERROR: duplicate key value violates unique constraint "users_username_key"
+  Detail: Key (username)=(user1) already exists.
+21:02:34.113 [main] DEBUG fileLogger - Create a user.
+21:02:34.409 [main] ERROR fileLogger - org.postgresql.util.PSQLException: ERROR: duplicate key value violates unique constraint "users_username_key"
+  Detail: Key (username)=(user1) already exists.
+21:02:34.409 [main] DEBUG fileLogger - Create a user.
+21:02:34.718 [main] ERROR fileLogger - org.postgresql.util.PSQLException: ERROR: duplicate key value violates unique constraint "users_username_key"
+  Detail: Key (username)=(user1) already exists.
+21:02:34.719 [main] DEBUG fileLogger - Create a user.
+21:02:34.987 [main] ERROR fileLogger - org.postgresql.util.PSQLException: ERROR: duplicate key value violates unique constraint "users_username_key"
+  Detail: Key (username)=(user1) already exists.
+21:02:34.987 [main] DEBUG fileLogger - Create a user.
+21:02:35.295 [main] ERROR fileLogger - org.postgresql.util.PSQLException: ERROR: duplicate key value violates unique constraint "users_username_key"
+  Detail: Key (username)=(user1) already exists.
+21:02:35.295 [main] DEBUG fileLogger - Create a user.
+21:02:35.581 [main] ERROR fileLogger - org.postgresql.util.PSQLException: ERROR: duplicate key value violates unique constraint "users_username_key"
+  Detail: Key (username)=(user1) already exists.
+21:02:35.582 [main] DEBUG fileLogger - Create a user.
+21:02:35.863 [main] ERROR fileLogger - org.postgresql.util.PSQLException: ERROR: duplicate key value violates unique constraint "users_username_key"
+  Detail: Key (username)=(user1) already exists.
+21:02:35.864 [main] DEBUG fileLogger - Create a user.
+21:02:36.127 [main] ERROR fileLogger - org.postgresql.util.PSQLException: ERROR: duplicate key value violates unique constraint "users_username_key"
+  Detail: Key (username)=(user1) already exists.
+21:02:36.128 [main] DEBUG fileLogger - Create a user.
+21:02:36.409 [main] ERROR fileLogger - org.postgresql.util.PSQLException: ERROR: duplicate key value violates unique constraint "users_username_key"
+  Detail: Key (username)=(user1) already exists.
+21:02:36.409 [main] DEBUG fileLogger - Create a user.
+21:02:36.711 [main] ERROR fileLogger - org.postgresql.util.PSQLException: ERROR: duplicate key value violates unique constraint "users_username_key"
+  Detail: Key (username)=(user1) already exists.
+21:02:36.711 [main] DEBUG fileLogger - Create a user.
+21:02:36.983 [main] ERROR fileLogger - org.postgresql.util.PSQLException: ERROR: duplicate key value violates unique constraint "users_username_key"
+  Detail: Key (username)=(user1) already exists.
+21:02:36.989 [main] DEBUG fileLogger - Create a user.
+21:02:37.280 [main] ERROR fileLogger - org.postgresql.util.PSQLException: ERROR: duplicate key value violates unique constraint "users_username_key"
+  Detail: Key (username)=(user1) already exists.
+21:02:37.281 [main] DEBUG fileLogger - Create a user.
+21:02:37.562 [main] ERROR fileLogger - org.postgresql.util.PSQLException: ERROR: duplicate key value violates unique constraint "users_username_key"
+  Detail: Key (username)=(user1) already exists.
+21:02:37.562 [main] DEBUG fileLogger - Create a user.
+21:02:37.829 [main] ERROR fileLogger - org.postgresql.util.PSQLException: ERROR: duplicate key value violates unique constraint "users_username_key"
+  Detail: Key (username)=(user1) already exists.
+21:02:37.829 [main] DEBUG fileLogger - Create a user.
+21:02:38.143 [main] ERROR fileLogger - org.postgresql.util.PSQLException: ERROR: duplicate key value violates unique constraint "users_username_key"
+  Detail: Key (username)=(user1) already exists.
+21:02:38.144 [main] DEBUG fileLogger - Create a user.
+21:02:38.440 [main] ERROR fileLogger - org.postgresql.util.PSQLException: ERROR: duplicate key value violates unique constraint "users_username_key"
+  Detail: Key (username)=(user1) already exists.
+21:02:38.440 [main] DEBUG fileLogger - Create a user.
+21:02:38.743 [main] ERROR fileLogger - org.postgresql.util.PSQLException: ERROR: duplicate key value violates unique constraint "users_username_key"
+  Detail: Key (username)=(user1) already exists.
+21:02:38.743 [main] DEBUG fileLogger - Create a user.
+21:02:39.058 [main] ERROR fileLogger - org.postgresql.util.PSQLException: ERROR: duplicate key value violates unique constraint "users_username_key"
+  Detail: Key (username)=(user1) already exists.
+21:02:39.058 [main] DEBUG fileLogger - Create a user.
+21:02:39.382 [main] ERROR fileLogger - org.postgresql.util.PSQLException: ERROR: duplicate key value violates unique constraint "users_username_key"
+  Detail: Key (username)=(user1) already exists.
+21:02:39.382 [main] DEBUG fileLogger - Create a user.
+21:02:39.681 [main] ERROR fileLogger - org.postgresql.util.PSQLException: ERROR: duplicate key value violates unique constraint "users_username_key"
+  Detail: Key (username)=(user1) already exists.
+21:02:39.681 [main] DEBUG fileLogger - Create a user.
+21:02:39.960 [main] ERROR fileLogger - org.postgresql.util.PSQLException: ERROR: duplicate key value violates unique constraint "users_username_key"
+  Detail: Key (username)=(user1) already exists.
+21:02:39.961 [main] DEBUG fileLogger - Create a user.
+21:02:40.238 [main] ERROR fileLogger - org.postgresql.util.PSQLException: ERROR: duplicate key value violates unique constraint "users_username_key"
+  Detail: Key (username)=(user1) already exists.
+21:02:40.239 [main] DEBUG fileLogger - Create a user.
+21:02:40.532 [main] ERROR fileLogger - org.postgresql.util.PSQLException: ERROR: duplicate key value violates unique constraint "users_username_key"
+  Detail: Key (username)=(user1) already exists.
+21:02:40.534 [main] DEBUG fileLogger - Create a user.
+21:02:40.838 [main] ERROR fileLogger - org.postgresql.util.PSQLException: ERROR: duplicate key value violates unique constraint "users_username_key"
+  Detail: Key (username)=(user1) already exists.
+21:02:40.839 [main] DEBUG fileLogger - Create a user.
+21:02:41.119 [main] ERROR fileLogger - org.postgresql.util.PSQLException: ERROR: duplicate key value violates unique constraint "users_username_key"
+  Detail: Key (username)=(user1) already exists.
+21:02:41.119 [main] DEBUG fileLogger - Create a user.
+21:02:41.434 [main] ERROR fileLogger - org.postgresql.util.PSQLException: ERROR: duplicate key value violates unique constraint "users_username_key"
+  Detail: Key (username)=(user1) already exists.
+21:02:41.434 [main] DEBUG fileLogger - Create a user.
+21:02:41.808 [main] ERROR fileLogger - org.postgresql.util.PSQLException: ERROR: duplicate key value violates unique constraint "users_username_key"
+  Detail: Key (username)=(user1) already exists.
+21:02:41.808 [main] DEBUG fileLogger - Create a user.
+21:02:42.102 [main] ERROR fileLogger - org.postgresql.util.PSQLException: ERROR: duplicate key value violates unique constraint "users_username_key"
+  Detail: Key (username)=(user1) already exists.
+21:02:42.102 [main] DEBUG fileLogger - Create a user.
+21:02:42.374 [main] ERROR fileLogger - org.postgresql.util.PSQLException: ERROR: duplicate key value violates unique constraint "users_username_key"
+  Detail: Key (username)=(user1) already exists.
+21:02:42.374 [main] DEBUG fileLogger - Create a user.
+21:35:18.253 [main] DEBUG fileLogger - Create a user.
+21:55:07.714 [main] DEBUG fileLogger - Login or Register
+21:55:14.923 [main] DEBUG fileLogger - Create a user.
+22:06:37.775 [main] DEBUG fileLogger - Login or Register
+22:12:54.227 [main] DEBUG fileLogger - Login or Register
+22:13:21.450 [main] DEBUG fileLogger - Login or Register
+22:25:06.409 [main] DEBUG fileLogger - Login or Register
+22:25:10.209 [main] DEBUG fileLogger - User login
+22:25:21.138 [main] DEBUG fileLogger - Login or Register
+22:25:26.693 [main] DEBUG fileLogger - User login
+22:26:10.661 [main] DEBUG fileLogger - Login or Register
+22:29:09.436 [main] DEBUG fileLogger - User login
+04:42:26.154 [main] DEBUG fileLogger - Login or Register
+04:42:32.914 [main] DEBUG fileLogger - User login
+04:42:38.342 [main] DEBUG fileLogger - Customer's menu
+04:42:41.869 [main] DEBUG fileLogger - Customer's menu
+04:47:32.937 [main] DEBUG fileLogger - Login or Register
+04:47:38.602 [main] DEBUG fileLogger - User login
+04:47:43.605 [main] DEBUG fileLogger - Customer's menu
+04:47:47.009 [main] DEBUG fileLogger - Customer's menu
+04:47:50.956 [main] DEBUG fileLogger - Logout
+04:47:50.957 [main] DEBUG fileLogger - Login or Register
+04:47:56.475 [main] DEBUG fileLogger - User login
+04:48:00.614 [main] DEBUG fileLogger - Customer's menu
+04:48:04.385 [main] DEBUG fileLogger - Customer's menu
+04:50:25.650 [main] DEBUG fileLogger - Login or Register
+04:50:27.437 [main] DEBUG fileLogger - Register users.
+04:50:32.914 [main] DEBUG fileLogger - Create a user.
+04:50:34.178 [main] DEBUG fileLogger - User login
+04:50:42.256 [main] DEBUG fileLogger - Customer's menu
+04:55:01.261 [main] DEBUG fileLogger - Login or Register
+04:55:06.960 [main] DEBUG fileLogger - User login
+04:55:11.169 [main] DEBUG fileLogger - Customer's menu
+04:55:44.715 [main] DEBUG fileLogger - Login or Register
+04:55:47.412 [main] DEBUG fileLogger - User login
+04:55:52.296 [main] DEBUG fileLogger - Customer's menu
+04:57:44.240 [main] DEBUG fileLogger - Login or Register
+04:57:46.640 [main] DEBUG fileLogger - Register users.
+04:57:54.964 [main] DEBUG fileLogger - Login or Register
+04:57:58.164 [main] DEBUG fileLogger - Register users.
+04:58:01.893 [main] DEBUG fileLogger - Create a user.
+04:58:03.033 [main] DEBUG fileLogger - User login
+04:58:07.870 [main] DEBUG fileLogger - Customer's menu
+04:58:16.299 [main] DEBUG fileLogger - Customer's menu
+13:44:50.708 [main] DEBUG fileLogger - Login or Register
+13:45:00.936 [main] DEBUG fileLogger - Login or Register
+13:45:12.249 [main] DEBUG fileLogger - Login or Register
+13:47:05.304 [main] DEBUG fileLogger - Login or Register
+17:13:24.843 [main] DEBUG fileLogger - User login
+17:13:30.743 [main] DEBUG fileLogger - Customer's menu
+17:14:16.035 [main] DEBUG fileLogger - Customer's menu
+17:14:19.016 [main] DEBUG fileLogger - Customer's menu
+17:14:22.744 [main] DEBUG fileLogger - Logout
+17:14:22.745 [main] DEBUG fileLogger - Login or Register
+17:14:26.734 [main] DEBUG fileLogger - Register users.
+17:14:33.780 [main] DEBUG fileLogger - Create a user.
+17:14:34.502 [main] DEBUG fileLogger - User login
+17:14:43.594 [main] DEBUG fileLogger - Customer's menu
+17:14:49.429 [main] DEBUG fileLogger - Customer's menu
+17:15:27.939 [main] DEBUG fileLogger - Customer's menu
+17:17:00.667 [main] DEBUG fileLogger - Logout
+17:17:00.670 [main] DEBUG fileLogger - Login or Register
+17:17:41.270 [main] DEBUG fileLogger - Logout
+17:17:41.273 [main] DEBUG fileLogger - Login or Register
+17:17:45.072 [main] DEBUG fileLogger - User login
+17:17:57.984 [main] DEBUG fileLogger - Customer's menu
+17:18:02.631 [main] DEBUG fileLogger - Customer's menu
+17:48:47.569 [main] DEBUG fileLogger - Login or Register
+17:48:52.712 [main] DEBUG fileLogger - User login
+17:49:00.866 [main] DEBUG fileLogger - Customer's menu
+17:50:24.203 [main] DEBUG fileLogger - Login or Register
+17:50:25.932 [main] DEBUG fileLogger - User login
+17:50:30.524 [main] DEBUG fileLogger - Customer's menu
+17:51:11.894 [main] DEBUG fileLogger - Login or Register
+17:51:51.053 [main] DEBUG fileLogger - Register users.
+17:51:55.903 [main] DEBUG fileLogger - Create a user.
+17:51:56.724 [main] ERROR fileLogger - org.postgresql.util.PSQLException: ERROR: duplicate key value violates unique constraint "users_username_key"
+  Detail: Key (username)=(user3) already exists.
+17:52:18.546 [main] DEBUG fileLogger - Create a user.
+17:52:19.254 [main] DEBUG fileLogger - User login
+17:52:27.209 [main] DEBUG fileLogger - Customer's menu
+17:52:35.733 [main] DEBUG fileLogger - Logout
+17:52:35.734 [main] DEBUG fileLogger - Login or Register
+17:52:38.293 [main] DEBUG fileLogger - User login
+17:52:42.205 [main] DEBUG fileLogger - Customer's menu
+17:53:04.295 [main] DEBUG fileLogger - Customer's menu
+17:53:48.054 [main] DEBUG fileLogger - Customer's menu
+17:56:23.635 [main] DEBUG fileLogger - Login or Register
+17:56:33.032 [main] DEBUG fileLogger - User login
+17:56:39.199 [main] DEBUG fileLogger - Customer's menu
+17:56:51.671 [main] DEBUG fileLogger - Customer's menu
+17:58:26.213 [main] DEBUG fileLogger - Login or Register
+17:58:27.651 [main] DEBUG fileLogger - User login
+17:58:32.335 [main] DEBUG fileLogger - Customer's menu
+17:59:00.033 [main] DEBUG fileLogger - Login or Register
+17:59:01.830 [main] DEBUG fileLogger - User login
+17:59:06.945 [main] DEBUG fileLogger - Customer's menu
+18:00:31.900 [main] DEBUG fileLogger - Login or Register
+18:00:33.445 [main] DEBUG fileLogger - User login
+18:00:38.885 [main] DEBUG fileLogger - Customer's menu
+18:00:51.503 [main] DEBUG fileLogger - Customer's menu
+18:01:03.260 [main] DEBUG fileLogger - Customer's menu
+18:26:05.982 [main] DEBUG fileLogger - Login or Register
+18:26:55.410 [main] DEBUG fileLogger - Login or Register
+18:26:57.692 [main] DEBUG fileLogger - User login
+18:27:02.368 [main] DEBUG fileLogger - Customer's menu
+18:27:08.798 [main] DEBUG fileLogger - Customer's menu
+18:45:08.633 [main] DEBUG fileLogger - Login or Register
+18:45:10.939 [main] DEBUG fileLogger - Register users.
+18:45:16.879 [main] DEBUG fileLogger - Create a user.
+18:45:17.681 [main] ERROR fileLogger - org.postgresql.util.PSQLException: ERROR: duplicate key value violates unique constraint "users_username_key"
+  Detail: Key (username)=(user1) already exists.
+18:45:28.195 [main] DEBUG fileLogger - Login or Register
+18:45:30.908 [main] DEBUG fileLogger - User login
+18:45:37.209 [main] DEBUG fileLogger - Customer's menu
+18:45:41.623 [main] DEBUG fileLogger - Customer's menu
+18:46:06.379 [main] DEBUG fileLogger - Customer's menu
+19:07:32.636 [main] DEBUG fileLogger - Login or Register
+19:07:40.989 [main] DEBUG fileLogger - User login
+19:07:46.332 [main] DEBUG fileLogger - Customer's menu
+19:07:54.402 [main] DEBUG fileLogger - Customer's menu
+19:08:11.022 [main] DEBUG fileLogger - Customer's menu
+19:08:27.355 [main] DEBUG fileLogger - Customer's menu
+19:08:49.677 [main] DEBUG fileLogger - Customer's menu
+19:09:00.161 [main] DEBUG fileLogger - Customer's menu
+19:10:32.822 [main] DEBUG fileLogger - Customer's menu
+19:11:39.920 [main] DEBUG fileLogger - Login or Register
+19:11:43.520 [main] DEBUG fileLogger - User login
+19:11:49.051 [main] DEBUG fileLogger - Customer's menu
+19:11:54.853 [main] DEBUG fileLogger - Customer's menu
+19:12:52.158 [main] DEBUG fileLogger - Login or Register
+19:12:53.569 [main] DEBUG fileLogger - User login
+19:12:59.668 [main] DEBUG fileLogger - Customer's menu
+19:13:05.644 [main] DEBUG fileLogger - Customer's menu
+19:13:28.352 [main] DEBUG fileLogger - Customer's menu
+19:13:45.848 [main] DEBUG fileLogger - Customer's menu
+19:13:57.596 [main] DEBUG fileLogger - Customer's menu
+19:36:54.134 [main] DEBUG fileLogger - Login or Register
+19:39:34.754 [main] DEBUG fileLogger - Logout
+19:39:34.756 [main] DEBUG fileLogger - Login or Register
+19:39:39.042 [main] DEBUG fileLogger - User login
+19:39:44.090 [main] DEBUG fileLogger - Customer's menu
+19:40:09.965 [main] DEBUG fileLogger - Customer's menu
+19:41:06.311 [main] DEBUG fileLogger - Customer's menu
+19:56:24.807 [main] DEBUG fileLogger - Login or Register
+19:56:30.375 [main] DEBUG fileLogger - User login
+19:56:34.319 [main] DEBUG fileLogger - Customer's menu
+19:56:41.565 [main] DEBUG fileLogger - Customer's menu
+19:56:54.187 [main] DEBUG fileLogger - Customer's menu
+19:58:30.580 [main] DEBUG fileLogger - Customer's menu
+20:00:45.552 [main] DEBUG fileLogger - Login or Register
+20:00:48.687 [main] DEBUG fileLogger - User login
+20:00:55.393 [main] DEBUG fileLogger - Customer's menu
+20:01:12.749 [main] DEBUG fileLogger - Customer's menu
+20:01:31.038 [main] DEBUG fileLogger - Customer's menu
+20:01:58.139 [main] DEBUG fileLogger - Customer's menu
+20:02:15.802 [main] DEBUG fileLogger - Customer's menu
+20:02:28.085 [main] DEBUG fileLogger - Customer's menu
+20:06:07.872 [main] DEBUG fileLogger - Login or Register
+20:27:27.446 [main] DEBUG fileLogger - Login or Register
+20:28:47.013 [main] DEBUG fileLogger - Login or Register
+20:31:06.015 [main] DEBUG fileLogger - Logout
+20:31:06.017 [main] DEBUG fileLogger - Login or Register
+20:31:15.957 [main] DEBUG fileLogger - Logout
+20:31:15.958 [main] DEBUG fileLogger - Login or Register
+20:36:53.205 [main] DEBUG fileLogger - Logout
+20:36:53.207 [main] DEBUG fileLogger - Login or Register
+20:36:58.112 [main] DEBUG fileLogger - User login
+20:37:15.353 [main] DEBUG fileLogger - Customer's menu
+20:37:18.981 [main] DEBUG fileLogger - Customer's menu
+20:37:22.217 [main] DEBUG fileLogger - Customer's menu
+20:37:27.117 [main] DEBUG fileLogger - Customer's menu
+20:37:37.408 [main] DEBUG fileLogger - Customer's menu
+20:37:48.566 [main] DEBUG fileLogger - Login or Register
+20:45:00.378 [main] DEBUG fileLogger - Login or Register
+20:45:27.969 [main] DEBUG fileLogger - Logout
+20:45:27.970 [main] DEBUG fileLogger - Login or Register
+20:46:56.996 [main] DEBUG fileLogger - Login or Register
+20:47:09.274 [main] DEBUG fileLogger - Logout
+20:47:09.275 [main] DEBUG fileLogger - Login or Register
+20:48:57.578 [main] DEBUG fileLogger - Logout
+20:48:57.582 [main] DEBUG fileLogger - Login or Register
+20:50:52.669 [main] DEBUG fileLogger - Login or Register
+20:51:04.717 [main] DEBUG fileLogger - Login or Register
+20:52:21.016 [main] DEBUG fileLogger - Login or Register
+20:53:42.598 [main] DEBUG fileLogger - Register users.
+20:53:47.155 [main] DEBUG fileLogger - Login or Register
+20:53:57.892 [main] DEBUG fileLogger - Register users.
+20:54:02.795 [main] DEBUG fileLogger - Create a user.
+20:54:03.609 [main] ERROR fileLogger - org.postgresql.util.PSQLException: ERROR: duplicate key value violates unique constraint "users_username_key"
+  Detail: Key (username)=(user3) already exists.
+20:54:10.109 [main] DEBUG fileLogger - Login or Register
+20:58:45.979 [main] DEBUG fileLogger - Logout
+20:58:45.981 [main] DEBUG fileLogger - Login or Register
+20:58:48.959 [main] DEBUG fileLogger - User login
+20:58:57.119 [main] DEBUG fileLogger - Customer's menu
+20:58:59.837 [main] DEBUG fileLogger - Customer's menu
+21:11:25.267 [main] DEBUG fileLogger - Login or Register
+21:14:12.246 [main] DEBUG fileLogger - Login or Register
+21:15:25.416 [main] DEBUG fileLogger - Logout
+21:15:25.421 [main] DEBUG fileLogger - Login or Register
+21:15:29.106 [main] DEBUG fileLogger - User login
+21:15:33.190 [main] DEBUG fileLogger - Customer's menu
+21:15:36.941 [main] DEBUG fileLogger - Customer's menu
+21:20:02.895 [main] DEBUG fileLogger - Customer's menu
+21:20:29.545 [main] DEBUG fileLogger - Customer's menu
+21:20:33.981 [main] DEBUG fileLogger - Logout
+21:20:33.983 [main] DEBUG fileLogger - Login or Register
+21:28:06.972 [main] DEBUG fileLogger - Login or Register
+22:08:47.258 [main] DEBUG fileLogger - Login or Register
+22:09:04.586 [main] DEBUG fileLogger - Login or Register
+22:11:10.314 [main] DEBUG fileLogger - Login or Register
+22:31:48.836 [main] DEBUG fileLogger - Login or Register
+22:31:55.298 [main] DEBUG fileLogger - Login or Register
+22:36:41.198 [main] DEBUG fileLogger - Login or Register
+22:42:52.885 [main] DEBUG fileLogger - Login or Register
+23:15:22.735 [main] DEBUG fileLogger - Login or Register
+23:19:20.544 [main] DEBUG fileLogger - Login or Register
+23:21:16.074 [main] DEBUG fileLogger - Login or Register
+23:22:52.768 [main] DEBUG fileLogger - Login or Register
+23:32:07.988 [main] DEBUG fileLogger - Login or Register
+23:38:51.171 [main] DEBUG fileLogger - Login or Register
+23:42:09.069 [main] DEBUG fileLogger - Login or Register
+23:44:38.156 [main] DEBUG fileLogger - Login or Register
+23:44:49.685 [main] DEBUG fileLogger - User login
+23:45:00.509 [main] DEBUG fileLogger - Customer's menu
+23:45:03.262 [main] DEBUG fileLogger - Logout
+23:45:03.262 [main] DEBUG fileLogger - Login or Register
+23:53:57.160 [main] DEBUG fileLogger - Login or Register
+23:55:12.018 [main] DEBUG fileLogger - Logout
+23:55:12.021 [main] DEBUG fileLogger - Login or Register
+00:32:33.979 [main] DEBUG fileLogger - Login or Register
+00:52:28.360 [main] DEBUG fileLogger - Create an admin.
+00:52:34.354 [main] DEBUG fileLogger - Create an admin.
+00:53:19.389 [main] DEBUG fileLogger - Create a user.
+00:53:20.730 [main] DEBUG fileLogger - Login or Register
